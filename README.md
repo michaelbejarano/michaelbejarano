@@ -3,7 +3,7 @@
 <p align="center">
 <!-- TYPING TEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=900&color=00BFFF&center=true&vCenter=true&width=650&lines=Backend+Developer+⚡;Java+%7C+Python+%7C+JavaScript;Spring+Boot+%7C+Laravel+%7C+Django;Construyendo+proyectos+para+mejorar;¡Bienvenido+a+mi+GitHub!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=900&color=00BFFF&center=true&vCenter=true&width=650&lines=Backend+Developer+⚡;JS+%7C+Python+%7C+PHP;NODE+JS+%7C+Laravel+%7C+Django;Construyendo+proyectos+para+mejorar;¡Bienvenido+a+mi+GitHub!">
 </p>
 </p>
 
@@ -18,7 +18,7 @@
       width: 80%;
     ">
       <h3 style="color:#00bfff; font-weight:300; font-size:22px;">
-        ⚡ Backend Developer • Software Engineer • Always Learning 🚀
+        ⚡ Software Developer • Software Engineer • Always Learning 🚀
       </h3>
     </td>
   </tr>
@@ -39,7 +39,7 @@
   <li>👨‍💻 Software Developer apasionado por backend</li>
   <li>📚 También desarrollo frontend para proyectos personales</li>
   <li>🔥 Trabajo todos los días para mejorar mis habilidades</li>
-  <li>📌 Amante de Java, Python y las tecnologías modernas</li>
+  <li>📌 Amante de JS, Python y las tecnologías modernas</li>
 </ul>
 
 <br><br>
